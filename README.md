@@ -1,6 +1,6 @@
 # ACL
 
-Application Control Layer like Android does for GNU OS
+Application Control Layer like Android does for The GNU OS
 
 # License
 
